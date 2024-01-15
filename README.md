@@ -20,7 +20,7 @@ KROP Salon is a web-based salon management system that provides a platform for c
 
 ![image](https://github.com/varshith03/krop_salon/assets/56431994/1da1bbc4-7814-4172-861a-d1f6fe299d0c)
 
-## Customer Registration Page
+## Customer SignUp Page
 
 ![image](https://github.com/varshith03/krop_salon/assets/56431994/ac935c7f-6e51-4eb3-9e29-fa48748ec71c)
 
